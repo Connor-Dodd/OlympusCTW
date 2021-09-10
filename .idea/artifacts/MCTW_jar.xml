@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MCTW:jar">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="MCTW.jar">
+      <element id="module-output" name="MCTW" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/dodd/plugin.yml" />
+    </root>
+  </artifact>
+</component>

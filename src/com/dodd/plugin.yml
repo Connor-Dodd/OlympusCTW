@@ -1,0 +1,19 @@
+main: com.dodd.MCTWPlugin
+name: MobaCTW
+version: 1
+author: Alarill
+api-version: 1.17
+
+commands:
+  initwalls:
+    usage: /initwalls
+    description: Initalise the invisible walls for each team
+  sayhello:
+    usage: /sayhello
+    description: Says hello lol :)
+  logblocks:
+    usage: /logblocks
+    description: Start or stop logging blocks
+  setclass:
+    usage: /setclass [rogue/cleric]
+    description: Set your own class
